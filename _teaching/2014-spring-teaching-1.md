@@ -17,7 +17,7 @@ Wyniki
 | Imię  | Zad1 | Zad2 |
 |-------|------|------|
 | Jan   | 1    | 2    |
-| Paweł | 3    | 4    |
+| Anna  | 3    | 4    |
 
 Heading 3
 ======
