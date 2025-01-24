@@ -3,7 +3,7 @@ title: "Photo-cycloreversion mechanism in diarylethenes revisited: A multirefere
 collection: publications
 category: manuscripts
 permalink: /publication/2021-dae-paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Our first work on the mechanism of DAE photoswitching.'
 date: 2021-10-01
 venue: 'The Journal of Chemical Physics'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
